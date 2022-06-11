@@ -2,7 +2,7 @@
 
 This repo is part of [YouTube Tutorial](https://www.youtube.com/watch?v=-Uo5ahVrZ_E)
 
-<iframe width="896" height="661" src="https://www.youtube.com/embed/-Uo5ahVrZ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![How To Setup a TS project](https://i.ytimg.com/vi/-Uo5ahVrZ_E/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLCbJfmRY8N-loO0r0RJqvEuMbURTw)](https://www.youtube.com/watch?v=-Uo5ahVrZ_E&t=208s)
 
 1. Initalize NPM
    ```bash

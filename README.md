@@ -1,5 +1,9 @@
 # Typescript Setup
 
+This repo is part of [YouTube Tutorial](https://www.youtube.com/watch?v=-Uo5ahVrZ_E)
+
+<iframe width="896" height="661" src="https://www.youtube.com/embed/-Uo5ahVrZ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Initalize NPM
    ```bash
    npm init
